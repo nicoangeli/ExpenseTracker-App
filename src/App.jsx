@@ -1,9 +1,5 @@
 import React from "react"; //importo React
 import { BrowserRouter, Route, Routes } from "react-router-dom"; //importo le componenti di react-router-dom, per la gestione della navigazione
-<<<<<<< HEAD
-=======
-import { Link } from 'react-router-dom';
->>>>>>> 51b7b94 (Ultime modifiche)
 // importo i componenti, per ciascuna route
 import Register from "./components/Register";
 import Expenses from "./components/Expenses"; 
@@ -28,10 +24,6 @@ function App(){
 					<Route path="/promemoria" element={<Promemoria/>} />
                     <Route path="/reset" element={<ForgotPassword/>} />
                 </Routes>
-<<<<<<< HEAD
-=======
-                
->>>>>>> 51b7b94 (Ultime modifiche)
             </div>
         </BrowserRouter>
     )
