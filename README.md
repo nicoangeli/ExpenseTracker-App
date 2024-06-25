@@ -9,6 +9,7 @@ Si possono impostare promemoria per ricordarsi le scadenza dei pagamenti, o semp
 - Visualizzazione di tutte le voci di spesa in un elenco
 - Filtro delle voci di spesa per data
 - Calcolo del totale delle spese
+- Aggiungere ed eliminare promemoria
 
 ## Tecnologie utilizzate
 
@@ -22,7 +23,7 @@ Si possono impostare promemoria per ricordarsi le scadenza dei pagamenti, o semp
 1. Clona il repository:
 
 ```
-git clone https://github.com/nicoangeli/expense-tracker-webapp.git
+git clone https://github.com/nicoangeli/ExpenseTracker-App.git
 ```
 
 2. Installa le dipendenze:
