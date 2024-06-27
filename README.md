@@ -28,8 +28,9 @@ git clone https://github.com/nicoangeli/ExpenseTracker-App.git
 
 2. Installa le dipendenze:
 
+Entrare da terminale, seguendo le il perscorso di dove è situata la cartella clonata, nella cartella.
 ```
-cd expense-tracker-webapp
+cd ExpenseTracker-App
 npm install
 ```
 
